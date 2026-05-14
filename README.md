@@ -256,7 +256,7 @@ During execution, the vehicle autonomously follows the racetrack using the imple
 
 ## Autonomous Driving Output
 
-> ![Output](images/output.png)
+![Output](images/output.png)
 
 ---
 
